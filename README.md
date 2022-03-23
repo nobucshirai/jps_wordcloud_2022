@@ -14,3 +14,6 @@
 
 ```bash jps_wordcloud_2022.sh```
 
+## 参考記事
+
+[ワードクラウド (okumuralab.org)](https://okumuralab.org/~okumura/python/wordcloud.html)
